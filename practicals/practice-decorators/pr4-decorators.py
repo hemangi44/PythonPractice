@@ -1,4 +1,4 @@
-class student:
+class student: 
 	prof_name="Kamal Sir"
 	def __init__(self,r,n,m):
 		self.rno=r

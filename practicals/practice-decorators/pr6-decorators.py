@@ -1,4 +1,5 @@
-# any object which implements the special __call__() method is termed callable
+# any object which implements the special __call__() method is termed callable 
+
 def smart_divide(func):
     def inner(a, b):
         print("I am going to divide", a, "and", b)

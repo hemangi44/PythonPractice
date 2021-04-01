@@ -1,4 +1,4 @@
-class employee:
+class employee: 
 	emp_count = 0                   #static variable/class variable
 	def __init__(self, eid, ename, esalary):
 		self.eid = eid
